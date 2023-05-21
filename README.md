@@ -1,6 +1,6 @@
 <p align="center"><img alt="Profile Banner" src="https://drive.google.com/uc?export=download&id=1rqF5SPxBVvckAe84w_OIhS2twuyS_lng"></p>
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=PrajuwalSingh"><img src="https://drive.google.com/uc?export=download&id=10VBSmBOUZBkeRye7r_KGFackCKsdLusO" height="36" alt="Prajuwal_Singh"
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=PrajuwalSingh"><img src="https://drive.google.com/uc?export=download&id=10VBSmBOUZBkeRye7r_KGFackCKsdLusO" height="150" width="200" alt="Prajuwal_Singh"
 
 <div align="center">
 
